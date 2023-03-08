@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-OPENAI_API_KEY = "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"
-=======
 OPENAI_API_KEY = ""
->>>>>>> 1b729007e029e3a5c30373d8cfb6c24ec04f722a
